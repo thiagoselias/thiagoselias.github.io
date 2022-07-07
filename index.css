@@ -26,11 +26,11 @@ header img {
 }
 @keyframes header {
     0% {
-       box-shadow: #8b80f9 0 0 0 0;
+       box-shadow: #5BBE42 0 0 0 0;
        }
 
     100% {
-       box-shadow: #8b80f900 0 0 0 16px;
+       box-shadow: #5BBE4200 0 0 0 16px;
        }
    }
 
