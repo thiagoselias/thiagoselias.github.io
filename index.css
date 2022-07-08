@@ -21,7 +21,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 1px solid #5BBE42;
+    border: 1px solid #ffffff;
     animation: header 1.5s infinite;
 }
 @keyframes header {
