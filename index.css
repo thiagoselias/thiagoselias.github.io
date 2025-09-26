@@ -13,7 +13,7 @@ ul {
 }
 
 a {
-    color: #B0B0B0;
+    color: white;
     text-decoration: none;
 }
 
@@ -26,11 +26,11 @@ header img {
 }
 @keyframes header {
     0% {
-       box-shadow: #5BBE42 0 0 0 0;
+       box-shadow: #006400 0 0 0 0;
        }
 
     100% {
-       box-shadow: #5BBE4200 0 0 0 16px;
+       box-shadow: #006400 0 0 0 16px;
        }
    }
 
